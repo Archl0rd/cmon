@@ -1,0 +1,6 @@
+name: Tgy
+version: ${project.version}
+main: svex.tgy.Tgy
+api-version: 1.16
+commands:
+  modop:
